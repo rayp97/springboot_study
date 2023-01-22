@@ -26,4 +26,4 @@ let main = {
         })
     }
 };
-index.init();
+main.init();
